@@ -175,7 +175,6 @@ footer a {
 }
 
 .step {
-  background: #fce138;
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
@@ -318,6 +317,10 @@ footer a {
 
 .contact-info a {
   color: #fce138;
+}
+
+#what-you-do {
+  background-color: #fce138;
 }
 
 section {
